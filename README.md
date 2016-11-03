@@ -8,7 +8,7 @@ Ansible role to install and configure Postgresql on OSX. This role is part of th
 
 ## Dependencies
 
-* [roderik.superlumic-homebrew](https://github.com/superlumic/ansible-role-homebrew)
+* [vid.superlumic-homebrew](https://github.com/superlumic/ansible-role-homebrew)
 
 # Usage
 
